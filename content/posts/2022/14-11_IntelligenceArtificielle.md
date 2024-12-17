@@ -1,9 +1,9 @@
 ---
-title: "IA & Luxe"
+title: "Comment l’intelligence artificielle (IA) révolutionne le secteur du luxe ?"
 date: 2024-11-14
 slug: /exoplanets-hunting/
 description: "Analyse de l'impact de l'intelligence artificielle dans l'industrie du luxe, un mariage entre tradition et technologie."
-image: images/ia-luxe.jpeg
+image: images/ia-luxe-chanel.jpeg
 categories:
   - technologie
   - luxe

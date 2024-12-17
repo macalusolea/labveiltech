@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Bienvenue sur mon blog"
 date: 2023-10-06T20:37:29+07:00
 image: images/ski-alpin.jpg
 draft: false

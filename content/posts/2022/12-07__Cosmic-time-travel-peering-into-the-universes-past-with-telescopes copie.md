@@ -3,7 +3,7 @@ title: "Le Storytelling : L'Art de sublimer les marques de luxe"
 date: 2024-12-02
 slug: /storytelling-luxe/
 description: "Découvrez comment le storytelling transcende les produits de luxe pour bâtir des marques intemporelles et émotionnelles."
-image: images/storytelling-luxe.jpg
+image: images/pub-parfum-j-adore-dior.jpg
 caption: "Storytelling : une émotion qui transforme les marques"
 categories:
   - marketing
